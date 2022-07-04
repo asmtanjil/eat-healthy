@@ -1,0 +1,65 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.first-section{
+  display: flex;
+}
+.skip{
+  color: #FB934A;
+}
+.healthy-diet{
+  color: #575757;
+}
+h1{
+  font-size: 60px;
+}
+h2{
+  font-size: 50px;
+  color: #707070;
+}
+.container{
+  width: 50%;
+  padding: 5%;
+}
+.container img{
+  height: 900px;
+  width: 860px;
+}
+#image-body{
+  margin-left: ;
+}
+.container p{
+  font-size: 24px;
+  color: gray;
+  margin-bottom: 70px;
+}
+.order-button{
+  background-image: linear-gradient(tomato, orange);
+  padding: 20px 50px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  border-radius: 30px;
+}
+
+.second-section{
+  display: flex;
+  background-image: url(images/7.png);
+  background-repeat:no-repeat;
+  background-size: cover;
+  
+}
+.second-container{
+  width: 50%;
+  margin-top: 10%;
+}
+.second-container img{
+  width: 40%;
+  padding-left: 250px;
+  margin-top: -90px;
+}
+.second-container p{
+  font-size: 24px;
+  margin-right: 270px;
+  margin-bottom: 90px;
+}
